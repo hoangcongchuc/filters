@@ -1,0 +1,4 @@
+! Title: uBlock filters
+! Last modified: %timestamp%
+accounts.google.com/gsi/*
+
